@@ -55,7 +55,7 @@ public class ComputerOnix {
     public class ColVendas{
         venda v ;
         int count=0;
-        ArrayList<venda> list;   //Criar uma arrayList 
+        ArrayList<venda> list;   //Criar uma arrayList aqui
         
         public ColVendas(){
             
